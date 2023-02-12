@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Feb 12 14:56:23 2023
+# Make data base, printed on Sun Feb 12 17:34:21 2023
 
 # Variables
 
@@ -57,7 +57,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_CWD = C:\Users\26296\Desktop\jemdoc-wz
+VSCODE_CWD = C:\Users\26296\AppData\Local\Programs\Microsoft VS Code
 # default
 MAKE_HOST := x86_64-w64-mingw32
 # environment
@@ -85,7 +85,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_11932_JQYNPQMPPVNNHNUT
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_27504_BHTORRTPKYPEBYIU
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -173,6 +173,8 @@ SYSTEMROOT = C:\WINDOWS
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
 # environment
+VSCODE_L10N_BUNDLE_LOCATION = 
+# environment
 PLATFORMCODE = AN
 # automatic
 +F = $(notdir $+)
@@ -217,11 +219,11 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 11932
+VSCODE_PID = 27504
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
-# Load=104/1024=10%, Rehash=0, Collisions=16/125=13%
+# Load=105/1024=10%, Rehash=0, Collisions=16/126=13%
 
 # Pattern-specific Variable Values
 
@@ -229,9 +231,9 @@ CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 
 # Directories
 
-# . (key c:/Users/26296/Desktop/jemdoc-wz, mtime 1676175903): 26 files, no impossibilities.
+# . (key c:/Users/26296/Desktop/jemdoc-wz, mtime 1676192402): 27 files, no impossibilities.
 
-# 26 files, no impossibilities in 1 directories.
+# 27 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -309,12 +311,12 @@ wwws:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 35 / storage = 345 B / avg = 9 B
-# current buf: size = 8162 B / used = 345 B / count = 35 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 36 / storage = 350 B / avg = 9 B
+# current buf: size = 8162 B / used = 350 B / count = 36 / avg = 9 B
 
-# strcache performance: lookups = 52 / hit rate = 32%
+# strcache performance: lookups = 53 / hit rate = 32%
 # hash-table stats:
-# Load=35/8192=0%, Rehash=0, Collisions=1/52=2%
-# Finished Make data base on Sun Feb 12 14:56:23 2023
+# Load=36/8192=0%, Rehash=0, Collisions=1/53=2%
+# Finished Make data base on Sun Feb 12 17:34:21 2023
 
  
